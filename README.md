@@ -4,15 +4,15 @@
 
 ## Algorithm:
 
-Step1:
+## Step1:
 Create a function for reversing.
-Step2:
+## Step2:
 Get the number from the user.
-Step3:
+## Step3:
 In the function find reminder of the number and multiply it by 10 and add the reverse number.
-Step4:
+## Step4:
 Recusively call this function to get the reversed number.
-Step5:
+## Step5:
 print the reversed number.
 
 ## Program:
